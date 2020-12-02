@@ -19,7 +19,8 @@ export default function Home({data}) {
           alt="" /> */}
           <Col sm={12} lg={7}
           className="flex-left p-5">
-            <h1 className="site-title text-lowercase">Gatsby Bootstrap Starter</h1>
+            <h1 className="site-title text-lowercase">Title</h1>
+            <p className="h4 text-lowercase font-weight-bold">Subtitle</p>
           </Col>
         </Row>
       </Layout>
