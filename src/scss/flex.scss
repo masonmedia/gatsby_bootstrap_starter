@@ -1,0 +1,15 @@
+.flex {
+    @extend .d-flex, .flex-column;
+}
+
+.flex-center {
+    @extend .flex, .justify-content-center, .align-items-center, .text-center;
+}
+
+.flex-left {
+    @extend .flex, .justify-content-center, .align-items-start, .text-left;
+}
+
+.flex-left-bottom {
+    @extend .flex, .justify-content-end, .align-items-start, .text-left;
+}
