@@ -1,5 +1,9 @@
 # Gatsby Bootstrap Boilerplate
 
+<img src="images/gatsby-bootstrap-starter-screen.png"
+     alt="janicemasonsteeves.com homepage banner photo"
+     style="width: 100%; float: left; margin: 0 auto;" />
+
 ## 🚀 Quick start
 
 This starter theme for Gatsby uses React-bootstrap and includes very basic shell content and setup with some useful preinstalled plugins/dependencies, and core starter components.
